@@ -1,0 +1,5 @@
+
+opencv-python
+keras_vggface
+keras_applications
+tensorflow

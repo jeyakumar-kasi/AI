@@ -1,0 +1,85 @@
+WARNING:root:WARN: <anik_das: Anik10.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <anik_das: Anik9.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <anindita_ghosh: Anindita1.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <anindita_ghosh: Anindita3.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <anwesha_dutta: Anwesha2.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <anwesha_dutta: Anwesha8.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <anwesha_ghosh: Anwesha5.jpeg> No face is detected.
+WARNING:root:WARN: <arpan_majumdar: Arpan10.jpeg> No face is detected.
+WARNING:root:WARN: <arpan_majumdar: Arpan8.jpeg> No face is detected.
+WARNING:root:WARN: <buddha_deb_bose: Buddha deb Bose (1).jpg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <buddha_deb_bose: Buddha deb Bose (2).jpg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <buddha_deb_bose: Buddha deb Bose (6).jpg> No face is detected.
+WARNING:root:WARN: <buddha_deb_bose: Buddha deb Bose (7).jpg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <buddha_deb_bose: Buddha deb Bose (9).jpg> No face is detected.
+WARNING:root:WARN: <chandim_bera: Chandim10.jpeg> No face is detected.
+WARNING:root:WARN: <debarati_das: Debarati7.jpeg> No face is detected.
+WARNING:root:WARN: <debika_dutta: Debika8.jpg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <debika_dutta: Debika9.jpg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <debjit_biswas: Debjit_3.jpeg> No face is detected.
+WARNING:root:WARN: <drishti_chatterjee: Drishti7.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <himangshu_dhar: Himangshu7.jpeg> No face is detected.
+WARNING:root:WARN: <jyotirmoy_sarkar: JYOTIRMOY1.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <koushik_das: Koushik10.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <koushik_das: Koushik2.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <koushik_das: Koushik5.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <koushik_das: Koushik6.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <koushik_das: Koushik7.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <koushik_das: Koushik8.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <pallab_neogi: Pallab5.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <rajib_jotder: Rajib2.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <rickta_mukherjee: Rickta7.jpeg> No face is detected.
+WARNING:root:WARN: <rudra_deb_bose: Rudra deb Bose (1).jpg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <rudra_deb_bose: Rudra deb Bose (2).jpg> No face is detected.
+WARNING:root:WARN: <rudra_deb_bose: Rudra deb Bose (5).jpg> No face is detected.
+WARNING:root:WARN: <ruma_bose: Ruma Bose (1).jpg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <ruma_bose: Ruma Bose (10).jpg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <ruma_bose: Ruma Bose (4).jpg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <ruma_bose: Ruma Bose (5).jpg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <ruma_bose: Ruma Bose (8).jpg> 6 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <ruma_bose: Ruma Bose (9).jpg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <sangita_basu: Sangita Basu (1).jpg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <sangita_basu: Sangita Basu (3).jpg> 4 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <sangita_basu: Sangita Basu (7).jpg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <sanu: Sanu5.jpeg> 4 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <sanu: Sanu6.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <sanu: Sanu7.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <sarnali_ghosh: Sarnali8.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <saumya_pradhan: SAUMYA4.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <saumya_pradhan: SAUMYA9.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <shila_bose: Shila Bose (1).jpg> 4 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <shila_bose: Shila Bose (10).jpg> 6 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <shila_bose: Shila Bose (2).jpg> 4 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <shila_bose: Shila Bose (3).jpg> 8 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <shila_bose: Shila Bose (4).jpg> 9 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <shila_bose: Shila Bose (5).jpg> 6 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <shila_bose: Shila Bose (6).jpg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <shila_bose: Shila Bose (8).jpg> 3 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <shivam_gupta: Shivam (7).jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <shivam_gupta: Shivam (8).jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <shivam_gupta: Shivam (9).jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <shuvo_bhattacharjee: Shuvo1.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <shuvo_bhattacharjee: Shuvo9.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <sohom: Sohom2.jpeg> No face is detected.
+WARNING:root:WARN: <soumyadeep_ganguly: Soumyadeep1.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <soumyadeep_ganguly: Soumyadeep2.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <soumyadeep_ganguly: Soumyadeep3.jpeg> 3 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <soumyadeep_ganguly: Soumyadeep4.jpeg> 3 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <soumyadeep_ganguly: Soumyadeep5.jpeg> 3 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <sreyoshi_ghosh: Sreyoshi5.jpeg> No face is detected.
+WARNING:root:WARN: <srijan_roy_chowdhury: Srijan1.jpeg> 3 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <srijan_roy_chowdhury: Srijan10.jpeg> 4 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <srijan_roy_chowdhury: Srijan2.jpeg> 6 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <srijan_roy_chowdhury: Srijan3.jpeg> 4 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <srijan_roy_chowdhury: Srijan4.jpeg> 3 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <srijan_roy_chowdhury: Srijan5.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <srijan_roy_chowdhury: Srijan6.jpeg> 3 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <srijan_roy_chowdhury: Srijan7.jpeg> 4 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <srijan_roy_chowdhury: Srijan8.jpeg> 3 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <srijan_roy_chowdhury: Srijan9.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <subhojit_ghosh: Subhojit7.jpeg> No face is detected.
+WARNING:root:WARN: <subhojit_seal: Subhojit2.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <subhojit_seal: Subhojit4.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <subhojit_seal: Subhojit9.jpeg> 2 Face(s) are detected. Considering as a Group photo. Skipped.
+WARNING:root:WARN: <subhrakanti_dasgupta: Subhrakanti9.jpeg> No face is detected.
+WARNING:root:WARN: <suparna_majumdar: Suparna_9.jpeg> No face is detected.
