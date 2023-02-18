@@ -1,0 +1,46 @@
+<!--#include file="header.shtml"-->
+<div class="row content-header">
+   <div id="breadcrumb" class="col-md-8">
+       <span title="Go Back"><a href="javascript: window.history.go(-1);"><i class="fa fa-arrow-left"></i> Go Back</a></span>
+   </div>
+   <div class="col-md-4">
+   </div>
+</div>
+
+<div class="row">
+    <div class="tabs">
+        <div class="tab-header">
+            <div data-target="#tab-1"><i class="fa fa-user"></i> Profile</div>
+            <div data-target="#tab-2" class="active"><i class="fa fa-newspaper"></i> My ADs</div>
+            <div data-target="#tab-3"><i class="fa fa-envelope"></i> Messages</div>
+            <div data-target="#tab-4"><i class="fa fa-wrench"></i> Settings</div>
+        </div>
+
+        <!-- tab 1 -->
+        <div class="tab" id="tab-1">
+            <!--#include file="ajax/biodata.shtml"-->
+        </div> <!-- tab 1 -->
+
+        <!-- tab 2 -->
+        <div class="tab" id="tab-2">
+            <!--#include file="ajax/myads.shtml"-->
+        </div> <!-- tab 2 -->
+
+        <!-- tab 4 -->
+        <div class="tab" id="tab-4">
+            <!--#include file="ajax/settings.shtml"-->
+        </div> <!-- tab 4 -->
+
+        <!-- tab 5 -->
+        <div class="tab" id="tab-5">
+              <!--#include file="ajax/password.shtml"-->
+        </div> <!-- tab 5 -->
+
+        <!-- tab 3 -->
+        <div class="tab" id="tab-3">
+            <!--#include file="ajax/messages.shtml"-->
+        </div> <!-- tab 3 -->
+
+
+</div>
+<!--#include file="footer.shtml"-->
